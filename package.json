@@ -2,6 +2,8 @@
 	"name": "spinalhdl-highlight",
   "displayName": "SpinalHDL highlight",
   "description": "This extension highlights SpinalHDL code",
+  "license": "MIT",
+  "repository": "wxhenry/SpinalHDL-highlight",
 	"version": "0.0.1",
 	"engines": {
     "vscode": "^1.93.0"
